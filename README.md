@@ -65,6 +65,9 @@
 4. **웹사이트 설정**:
     - PHP와 MySQL을 사용하여 데이터를 저장하고 시각화하는 웹 페이지를 구축합니다.
 
+5. **실행**:
+   <img width="500" alt="2" src= https://github.com/user-attachments/assets/e49c43cf-4b27-4c0f-9ccb-7d3c704c4330>
+   
 ## 프로젝트 구성
 
 1. **지그 설계**:

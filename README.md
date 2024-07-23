@@ -1,6 +1,6 @@
 # 안전사고 예방을 위한 통신기능이 내장된 안전모 프로젝트 
 
-        <img width="700" alt="2" src= "https://github.com/user-attachments/assets/b6f79172-8c6c-455a-9e41-65d6dcfc3db7">
+#        <img width="700" alt="2" src= "https://github.com/user-attachments/assets/b6f79172-8c6c-455a-9e41-65d6dcfc3db7">
 
 ## 프로젝트 설명
 

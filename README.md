@@ -93,4 +93,5 @@
 ## 참고 문서
 
 - [산학 캡스톤디자인_TeamKahng_최종보고서(2023).pdf](https://github.com/user-attachments/files/16349359/_TeamKahng_.2023.pdf)
+- [아이디어붐](https://ideaboom.net/project/project/view?seq=1437&search_keyword=%EC%95%88%EC%A0%84%EB%AA%A8&data_seq[]=1&data_seq[]=2&data_seq[]=3&data_seq[]=4&data_seq[]=5&data_seq[]=6&data_seq[]=7&data_seq[]=8&data_seq[]=9&data_seq[]=10&data_seq[]=11&data_seq[]=12&data_seq[]=13&order=reg)
 - [시연 영상](https://youtu.be/vbhFi2KNafI?si=6dlD7VHBstM9Rb3n)
